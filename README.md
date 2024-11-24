@@ -24,3 +24,5 @@ Build a DL(Deep Learning) model that can predict, with a high Accuracy score, wh
 
 # Dataset link
 Dataset: https://www.kaggle.com/xhlulu/140k-real-and-fake-faces
+# Collab Link
+Collab: https://colab.research.google.com/drive/1YzRgpRhyr8plOAGLn_oXRS0-uD6ulnTi [https://colab.research.google.com/drive/1YzRgpRhyr8plOAGLn_oXRS0-uD6ulnTi]
